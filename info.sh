@@ -3,7 +3,7 @@
 #################################################################
 # Script criado para ver informações úteis do sistema           #
 #                                                               #
-# Desenvolvido por Wellington Barros 05/01/2022                 #
+# Desenvolvido por Wellington Barros 05/01/2023                 #
 #################################################################
 
 
